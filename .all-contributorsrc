@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "khuongdn16",
+      "name": "Khuong Nguyen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/40132306?v=4",
+      "profile": "https://github.com/khuongdn16",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "CS-Scholarship-Fund",
+  "projectOwner": "SR-Inc",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
