@@ -13,7 +13,6 @@ locationController.getlocations = (req, res, next) => {
   db.query(queryString)
     .then((data) => {
       res.locals.locations = data.rows;
-      // console.log('this is res.locals:', res.locals.locations);
       return next();
     })
     .catch((err) => {
