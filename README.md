@@ -13,3 +13,7 @@ Fork & clone this repo, then
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
+
+## Contributors
+
+Annie [@annieshinn](https://github.com/annieshinn) • Daniel [@Daniel-P3](https://github.com/Daniel-P3) • Elena [@elenaconn](https://github.com/elenaconn) • Khuong [@khuongdn16](https://github.com/khuongdn16) • Ted [@tedtaemin](https://github.com/tedtaemin)
