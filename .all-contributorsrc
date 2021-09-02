@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "annieshinn",
+      "name": "Annie Shin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/73931127?v=4",
+      "profile": "https://github.com/annieshinn",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "CS-Scholarship-Fund",
+  "projectOwner": "SR-Inc",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
