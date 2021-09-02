@@ -1,6 +1,6 @@
-# CS Scholarship Fund
+# forEach Scholarship Fund
 
-Computer science education and resources can be inaccessible to those in less privileged economic circumstances -- let's make it more accessible together!
+Computer science education and resources can be inaccessible to those in less privileged economic circumstances — let's make it more accessible together!
 
 ## Usage
 
