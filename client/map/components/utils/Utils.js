@@ -8,7 +8,7 @@ export const tileUrl =
 export const myLocation = {
   lat: 33.870752, 
   lng:  -117.764605,
-  zoom: 5,
+  zoom: 6,
   minZoom: 2,
 }
 

@@ -78,6 +78,4 @@ donationController.makeDonation = async (req, res, next) => {
       });
     })
 };
- 
-
 module.exports = donationController;

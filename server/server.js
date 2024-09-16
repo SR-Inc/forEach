@@ -28,7 +28,6 @@ app.use('/location', locationRouter);
 app.use('/donation', donationRouter);
 app.use('/user', userRouter);
 
-
 app.use((req, res) => res.status(404).send('This is not the page you\'re looking for...'));
 
 // Global error handler

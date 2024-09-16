@@ -8,6 +8,7 @@ const express = require('express');
 const donationRouter = express.Router();
 
 const donationController = require('../controllers/donationController.js');
+const userController = require('../controllers/userController.js');
 
 // handles GET requests to localhost:3000/donation/total
 donationRouter.get('/total',
@@ -23,9 +24,11 @@ donationRouter.get('/total',
 donationRouter.post('/',
   donationController.reqBodyChecker,
   donationController.makeDonation,
+  userController.userHistory,
   (req, res) => {
     res.status(200).json({
       insertedRow: res.locals.insertedRow,
+      userHistory: res.locals.userHistory,
       status: 'Success inserting donation row',
     })
 })
